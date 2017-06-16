@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #5E616A;
+}
+container{
+    background: #F9F3E6;
+
+}
+table {
+    border-top: 2px solid #E8AA8C;
+    margin: 3em auto;
+    width: 90%;
+
+}
+td, th{
+    padding: 8px;
+    text-align: left;
+
+}
+
+th{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+td{
+
+}
+tr:nth-child(even){
+    background: #4797B1;
+    color: white;
+
+}
